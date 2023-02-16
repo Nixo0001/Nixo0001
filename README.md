@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nixo0001
+- 👋 Hi, I’m @Nico0001
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning java Script and Lua code
 - 💞️ I’m looking to collaborate on 
