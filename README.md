@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f0rs4keN - Nico
+- 👋 Hi, I’m Nico
 - 👀 I’m interested in Developing
 - 🌱 I know some basic lua stuff
 - 💞️ I’m looking for Tipps and Tricks
